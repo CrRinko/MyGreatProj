@@ -11,3 +11,7 @@ int main(int argc, char *argv[]) {
 	//Hello world!
 	return 0;
 }
+
+void print(int n){
+	printf("n=%d\n",n);
+}
