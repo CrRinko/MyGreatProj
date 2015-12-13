@@ -8,5 +8,6 @@ int main(int argc, char *argv[]) {
 	scanf("%d",&n);
 	for(i=0;i<=n-1;i++)
 		printf("Hello world!\n");
+	//Hello world!
 	return 0;
 }
